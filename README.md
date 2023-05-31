@@ -16,4 +16,4 @@ Follow these steps to get started with the project:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/imagetracking-vuforia.git
+git clone https://github.com/priyanshusaini105/ar-meta-1
